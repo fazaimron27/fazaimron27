@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Fashionism Bangkit Capstone Project](https://github.com/Fashionism-Bangkit-Capstone/)
 
-- 👯 I’m looking to collaborate on [Fashionism Cloud Computing](https://github.com/Fashionism-Bangkit-Capstone/Fashionism-Cloud-Computing/)
-
 - 💬 Ask me about **nodejs, expressjs, dart, and flutter**
 
 - 📫 How to reach me **fazaimanimron@gmail.com**
