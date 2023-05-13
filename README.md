@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazaimron27&label=Profile%20views&color=0e75b6&style=flat" alt="fazaimron27" /> </p>
 
-- 🔭 I’m currently working on [pet care rest api](https://github.com/petcaredev/pet-care-rest-api/)
+- 🔭 I’m currently working on [Fashionism Bangkit Capstone Project](https://github.com/Fashionism-Bangkit-Capstone/)
 
-- 👯 I’m looking to collaborate on [pet care mobile apps](https://github.com/petcaredev/pet-care-mobile-apps)
+- 👯 I’m looking to collaborate on [Fashionism Cloud Computing](https://github.com/Fashionism-Bangkit-Capstone/Fashionism-Cloud-Computing/)
 
 - 💬 Ask me about **nodejs, expressjs, dart, and flutter**
 
